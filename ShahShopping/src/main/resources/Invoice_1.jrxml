@@ -126,11 +126,11 @@
 				<textElement>
 					<font size="19" isBold="true"/>
 				</textElement>
-				<text><![CDATA[HaarisCatz Pvt ltd.]]></text>
+				<text><![CDATA[ShahShopping Pvt ltd.]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="95" y="55" width="205" height="15" uuid="b8cc42fd-b569-497d-834d-7e854040ad18"/>
-				<text><![CDATA[7845014181,haariscart.dean@gmail.com.]]></text>
+				<text><![CDATA[7305571150,shahahmed.2207@gmail.com.]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="95" y="25" width="205" height="15" uuid="c226e44d-3bb5-4145-b0b3-903bf1d79fde"/>
